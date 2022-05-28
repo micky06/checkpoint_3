@@ -1,0 +1,168 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="760" height="237" view_box="0 0 760 237"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:link="http://www.w3.org/1999/xlink">\n\n<desc>Généré par Mocodo 2.3.7 le Thu, 26 May 2022 09:23:26</desc>
+
+<rect id="frame" x="0" y="0" width="760" height="237" fill="#f7f7f7" stroke="none" stroke-width="0"/>
+
+<!-- Entity etape -->
+<g id="entity-etape">
+	<g id="frame-etape">
+		<rect x="322" y="152" width="64" height="25" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+		<rect x="322" y="177.0" width="64" height="43" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+		<rect x="322" y="152" width="64" height="68" fill="none" stroke="#d6604d" stroke-width="2"/>
+		<line x1="322" y1="177" x2="386" y2="177" stroke="#d6604d" stroke-width="1"/>
+	</g>
+	<text x="336" y="169.7" fill="#000000" font-family="Verdana" font-size="12">etape</text>
+	<text x="327" y="194.8" fill="#000000" font-family="Verdana" font-size="12">id_etape</text>
+	<line x1="327" y1="197" x2="380" y2="197" stroke="#000000" stroke-width="1"/>
+	<text x="327" y="211.8" fill="#000000" font-family="Verdana" font-size="12">ordre</text>
+</g>
+
+<!-- Entity recette -->
+<g id="entity-recette">
+	<g id="frame-recette">
+		<rect x="307" y="9" width="94" height="25" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+		<rect x="307" y="34.0" width="94" height="93" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+		<rect x="307" y="9" width="94" height="118" fill="none" stroke="#d6604d" stroke-width="2"/>
+		<line x1="307" y1="34" x2="401" y2="34" stroke="#d6604d" stroke-width="1"/>
+	</g>
+	<text x="332" y="26.7" fill="#000000" font-family="Verdana" font-size="12">recette</text>
+	<text x="312" y="51.7" fill="#000000" font-family="Verdana" font-size="12">id_recette</text>
+	<line x1="312" y1="54" x2="374" y2="54" stroke="#000000" stroke-width="1"/>
+	<text x="312" y="68.8" fill="#000000" font-family="Verdana" font-size="12">titre</text>
+	<text x="312" y="85.8" fill="#000000" font-family="Verdana" font-size="12">auteur</text>
+	<text x="312" y="102.8" fill="#000000" font-family="Verdana" font-size="12">date_creation</text>
+	<text x="312" y="119.8" fill="#000000" font-family="Verdana" font-size="12">#id_plat</text>
+</g>
+
+<!-- Entity consulter -->
+<g id="entity-consulter">
+	<g id="frame-consulter">
+		<rect x="161" y="26" width="82" height="25" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+		<rect x="161" y="51.0" width="82" height="59" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+		<rect x="161" y="26" width="82" height="84" fill="none" stroke="#d6604d" stroke-width="2"/>
+		<line x1="161" y1="51" x2="243" y2="51" stroke="#d6604d" stroke-width="1"/>
+	</g>
+	<text x="174" y="43.7" fill="#000000" font-family="Verdana" font-size="12">consulter</text>
+	<text x="166" y="68.8" fill="#000000" font-family="Verdana" font-size="12">#id_user</text>
+	<line x1="166" y1="71" x2="221" y2="71" stroke="#000000" stroke-width="1"/>
+	<text x="166" y="85.8" fill="#000000" font-family="Verdana" font-size="12">#id_recette</text>
+	<line x1="166" y1="88" x2="238" y2="88" stroke="#000000" stroke-width="1"/>
+	<text x="166" y="102.8" fill="#000000" font-family="Verdana" font-size="12">favori</text>
+</g>
+
+<!-- Entity plat -->
+<g id="entity-plat">
+	<g id="frame-plat">
+		<rect x="489" y="144" width="52" height="25" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+		<rect x="489" y="169.0" width="52" height="59" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+		<rect x="489" y="144" width="52" height="84" fill="none" stroke="#d6604d" stroke-width="2"/>
+		<line x1="489" y1="169" x2="541" y2="169" stroke="#d6604d" stroke-width="1"/>
+	</g>
+	<text x="503" y="161.7" fill="#000000" font-family="Verdana" font-size="12">plat</text>
+	<text x="494" y="186.8" fill="#000000" font-family="Verdana" font-size="12">id_plat</text>
+	<line x1="494" y1="189" x2="536" y2="189" stroke="#000000" stroke-width="1"/>
+	<text x="494" y="203.8" fill="#000000" font-family="Verdana" font-size="12">nom</text>
+	<text x="494" y="220.8" fill="#000000" font-family="Verdana" font-size="12">type</text>
+</g>
+
+<!-- Entity lister -->
+<g id="entity-lister">
+	<g id="frame-lister">
+		<rect x="161" y="152" width="82" height="25" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+		<rect x="161" y="177.0" width="82" height="43" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+		<rect x="161" y="152" width="82" height="68" fill="none" stroke="#d6604d" stroke-width="2"/>
+		<line x1="161" y1="177" x2="243" y2="177" stroke="#d6604d" stroke-width="1"/>
+	</g>
+	<text x="186" y="169.7" fill="#000000" font-family="Verdana" font-size="12">lister</text>
+	<text x="166" y="194.8" fill="#000000" font-family="Verdana" font-size="12">#id_etape</text>
+	<line x1="166" y1="197" x2="229" y2="197" stroke="#000000" stroke-width="1"/>
+	<text x="166" y="211.8" fill="#000000" font-family="Verdana" font-size="12">#id_recette</text>
+	<line x1="166" y1="214" x2="238" y2="214" stroke="#000000" stroke-width="1"/>
+</g>
+
+<!-- Entity user -->
+<g id="entity-user">
+	<g id="frame-user">
+		<rect x="41" y="17" width="56" height="25" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+		<rect x="41" y="42.0" width="56" height="77" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+		<rect x="41" y="17" width="56" height="102" fill="none" stroke="#d6604d" stroke-width="2"/>
+		<line x1="41" y1="42" x2="97" y2="42" stroke="#d6604d" stroke-width="1"/>
+	</g>
+	<text x="55" y="34.7" fill="#000000" font-family="Verdana" font-size="12">user</text>
+	<text x="46" y="59.7" fill="#000000" font-family="Verdana" font-size="12">id_user</text>
+	<line x1="46" y1="62" x2="92" y2="62" stroke="#000000" stroke-width="1"/>
+	<text x="46" y="76.8" fill="#000000" font-family="Verdana" font-size="12">nom</text>
+	<text x="46" y="93.8" fill="#000000" font-family="Verdana" font-size="12">email</text>
+	<text x="46" y="110.8" fill="#000000" font-family="Verdana" font-size="12">mdp</text>
+</g>
+
+<!-- Entity avoir -->
+<g id="entity-avoir">
+	<g id="frame-avoir">
+		<rect x="465" y="34" width="100" height="25" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+		<rect x="465" y="59.0" width="100" height="43" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+		<rect x="465" y="34" width="100" height="68" fill="none" stroke="#d6604d" stroke-width="2"/>
+		<line x1="465" y1="59" x2="565" y2="59" stroke="#d6604d" stroke-width="1"/>
+	</g>
+	<text x="499" y="51.7" fill="#000000" font-family="Verdana" font-size="12">avoir</text>
+	<text x="470" y="76.8" fill="#000000" font-family="Verdana" font-size="12">#id_recette</text>
+	<line x1="470" y1="79" x2="542" y2="79" stroke="#000000" stroke-width="1"/>
+	<text x="470" y="93.8" fill="#000000" font-family="Verdana" font-size="12">#id_ingredient</text>
+	<line x1="470" y1="96" x2="560" y2="96" stroke="#000000" stroke-width="1"/>
+</g>
+
+<!-- Entity ingredient -->
+<g id="entity-ingredient">
+	<g id="frame-ingredient">
+		<rect x="629" y="26" width="90" height="25" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+		<rect x="629" y="51.0" width="90" height="59" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+		<rect x="629" y="26" width="90" height="84" fill="none" stroke="#d6604d" stroke-width="2"/>
+		<line x1="629" y1="51" x2="719" y2="51" stroke="#d6604d" stroke-width="1"/>
+	</g>
+	<text x="643" y="43.7" fill="#000000" font-family="Verdana" font-size="12">ingredient</text>
+	<text x="634" y="68.8" fill="#000000" font-family="Verdana" font-size="12">id_ingredient</text>
+	<line x1="634" y1="71" x2="714" y2="71" stroke="#000000" stroke-width="1"/>
+	<text x="634" y="85.8" fill="#000000" font-family="Verdana" font-size="12">qt</text>
+	<text x="634" y="102.8" fill="#000000" font-family="Verdana" font-size="12">unite</text>
+</g>
+
+<!-- Link from "id_plat" (recette) to "id_plat" (plat) -->
+<path d="M401 115.5 C 445.0 149.0 430.333333333 182.5 489 182.5" fill="none" stroke="#4393c3" stroke-width="2"/>
+<path d="M 489 182.5 L 477.0 188.5 L 481.0 182.5 L 477.0 176.5 Z" fill="#4393c3" stroke-width="0"/>
+<circle cx="401" cy="115.5" r="2" stroke="#4393c3" stroke-width="2" fill="#4393c3"/>
+
+<!-- Link from "id_user" (consulter) to "id_user" (user) -->
+<path d="M161 64.5 C 129.0 60.0 139.666666667 55.5 97 55.5" fill="none" stroke="#4393c3" stroke-width="2"/>
+<path d="M 97 55.5 L 109.0 49.5 L 105.0 55.5 L 109.0 61.5 Z" fill="#4393c3" stroke-width="0"/>
+<circle cx="161" cy="64.5" r="2" stroke="#4393c3" stroke-width="2" fill="#4393c3"/>
+
+<!-- Link from "id_recette" (consulter) to "id_recette" (recette) -->
+<path d="M243 81.5 C 275.0 64.5 264.333333333 47.5 307 47.5" fill="none" stroke="#4393c3" stroke-width="2"/>
+<path d="M 307 47.5 L 295.0 53.5 L 299.0 47.5 L 295.0 41.5 Z" fill="#4393c3" stroke-width="0"/>
+<circle cx="243" cy="81.5" r="2" stroke="#4393c3" stroke-width="2" fill="#4393c3"/>
+
+<!-- Link from "id_etape" (lister) to "id_etape" (etape) -->
+<path d="M243 190.5 C 282.5 190.5 269.333333333 190.5 322 190.5" fill="none" stroke="#4393c3" stroke-width="2"/>
+<path d="M 322 190.5 L 310.0 196.5 L 314.0 190.5 L 310.0 184.5 Z" fill="#4393c3" stroke-width="0"/>
+<circle cx="243" cy="190.5" r="2" stroke="#4393c3" stroke-width="2" fill="#4393c3"/>
+
+<!-- Link from "id_recette" (lister) to "id_recette" (recette) -->
+<path d="M243 207.5 C 275.0 127.5 264.333333333 47.5 307 47.5" fill="none" stroke="#4393c3" stroke-width="2"/>
+<path d="M 307 47.5 L 295.0 53.5 L 299.0 47.5 L 295.0 41.5 Z" fill="#4393c3" stroke-width="0"/>
+<circle cx="243" cy="207.5" r="2" stroke="#4393c3" stroke-width="2" fill="#4393c3"/>
+
+<!-- Link from "id_recette" (avoir) to "id_recette" (recette) -->
+<path d="M465 72.5 C 433.0 60.0 443.666666667 47.5 401 47.5" fill="none" stroke="#4393c3" stroke-width="2"/>
+<path d="M 401 47.5 L 413.0 41.5 L 409.0 47.5 L 413.0 53.5 Z" fill="#4393c3" stroke-width="0"/>
+<circle cx="465" cy="72.5" r="2" stroke="#4393c3" stroke-width="2" fill="#4393c3"/>
+
+<!-- Link from "id_ingredient" (avoir) to "id_ingredient" (ingredient) -->
+<path d="M565 89.5 C 597.0 77.0 586.333333333 64.5 629 64.5" fill="none" stroke="#4393c3" stroke-width="2"/>
+<path d="M 629 64.5 L 617.0 70.5 L 621.0 64.5 L 617.0 58.5 Z" fill="#4393c3" stroke-width="0"/>
+<circle cx="565" cy="89.5" r="2" stroke="#4393c3" stroke-width="2" fill="#4393c3"/>
+</svg>
